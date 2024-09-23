@@ -1,2 +1,4 @@
 # Newrepo
-This is a new Repo
+This is a my new Repo
+
+Author -Isha Lanke
